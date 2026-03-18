@@ -1,0 +1,18 @@
+{
+  "licenses": [
+    {
+      "key": "ADSPY-DEMO-1234-5678",
+      "email": "demo@example.com",
+      "plan": "pro",
+      "expires": "2027-12-31",
+      "name": "Demo User"
+    },
+    {
+      "key": "ADSPY-O3T4-3EUH-ZR3Z-CXYQ",
+      "email": "inasircli@gmail.com",
+      "plan": "lifetime",
+      "expires": "2108-04-07",
+      "name": "Nasir Uddin"
+    }
+  ]
+}
